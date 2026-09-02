@@ -72,6 +72,3 @@ The dashboard provides analysis across different dimensions including:
 
 ![Sales Performance Dashboard](Dashboard.jpg)
 
-## Skills Demonstrated
-
-Power BI | DAX | Data Modeling | Time Intelligence | Data Visualization | Business Intelligence | Dashboard Development
