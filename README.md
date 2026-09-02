@@ -70,7 +70,7 @@ The dashboard provides analysis across different dimensions including:
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](screenshots/dashboard.png)
+![Sales Performance Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 
